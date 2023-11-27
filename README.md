@@ -82,6 +82,6 @@
     Services : Développement web, blockchain, production musicale, création de contenu.
     Engagement Client : Solutions personnalisées et adaptées.
 
-Clément Gillaux : Un partenaire freelance dédié à l'excellence, combinant expertise technique et sens aigu des besoins clients pour transformer les données en décisions éclairées et efficaces. 📊🔍🌐
+ Partenaire freelance dédié à l'excellence, combinant expertise technique et sens aigu des besoins clients pour transformer les données en décisions éclairées et efficaces. 📊🔍🌐
 
 
