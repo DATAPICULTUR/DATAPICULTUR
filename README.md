@@ -8,12 +8,14 @@
 💼 Expérience et Formation :
 
     Expériences Clés :
-        Assistant Bibliothécaire : Expertise en gestion documentaire et médiation culturelle.
-        Vendeur/Caissier : Compétences en gestion des stocks et service client.
+        Bibliothécaire : Expertise en gestion documentaire et médiation culturelle.
+        Expert Parfum : Compétences en expertise parfum, profil olfactif.
         Auditeur Marketing : Aiguisé en collecte et analyse de données comportementales.
+   
     Formations Académiques :
         ENSAI (Paris) - Data Analyst.
-        Université Rennes 2 - Licence en Psychologie et Sociologie.
+        Université Rennes 2 - Licence en Psychologie.
+        Université Nantes - Licence de Sociologie.
 
 🧠 Compétences Techniques :
 
@@ -21,14 +23,19 @@
         Python, Tableau, Excel, Knime, SQL.
     Base de données & Informatique :
         Modélisation de bases de données, analyse marketing, nettoyage de données.
+    
     Analyse & Statistique :
         Rapports statistiques, analyse exploratoire, probabilités.
+  
     Outils & Logiciels :
         Excel, Tableau, montage audiovisuel (Ableton, Adobe Suite).
+  
     Gestion & Organisation :
         Systèmes de veille informationnelle.
+ 
     Design & UX :
         Gestion de projets design, UX mapping.
+
     Intelligence Artificielle :
         Initiation à l'IA, utilisation de Zapier et ChatGPT.
 
@@ -62,4 +69,4 @@
 
 Clément Gillaux : Un partenaire freelance dédié à l'excellence, combinant expertise technique et sens aigu des besoins clients pour transformer les données en décisions éclairées et efficaces. 📊🔍🌐
 
-Cette présentation vise à mettre en avant votre polyvalence, votre expertise et votre engagement en tant que consultant freelance, tout en illustrant clairement vos compétences techniques et vos expériences professionnelles diversifiées.
+
