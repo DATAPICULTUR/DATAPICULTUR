@@ -21,7 +21,6 @@ Projets et Expérience :
 Soft Skills et Autres Compétences :
 
     Langues : Anglais (avancé), Espagnol, Italien.
-    Compétences Relationnelles : Excellente communication et capacité à établir des relations.
     Relation Publique : Expertise en gestion de relations publiques et veille informationnelle.
 
 Services Offerts par APICULTUR, Ma Société de Services Numériques et de Création :
