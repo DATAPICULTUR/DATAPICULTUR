@@ -19,25 +19,40 @@
 
 🧠 Compétences Techniques :
 
-    Informatique et Analyse de Données :
-        Python, Tableau, Excel, Knime, SQL.
-    Base de données & Informatique :
-        Modélisation de bases de données, analyse marketing, nettoyage de données.
-    
-    Analyse & Statistique :
-        Rapports statistiques, analyse exploratoire, probabilités.
-  
-    Outils & Logiciels :
-        Excel, Tableau, montage audiovisuel (Ableton, Adobe Suite).
-  
-    Gestion & Organisation :
-        Systèmes de veille informationnelle.
- 
-    Design & UX :
-        Gestion de projets design, UX mapping.
+   ### Informatique et Analyse de Données
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Knime](https://img.shields.io/badge/Knime-0078D4?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-    Intelligence Artificielle :
-        Initiation à l'IA, utilisation de Zapier et ChatGPT.
+### Base de données & Informatique
+![Database Modeling](https://img.shields.io/badge/Database_Modeling-003B57?style=flat)
+![Marketing Analysis](https://img.shields.io/badge/Marketing_Analysis-FFA500?style=flat)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-306998?style=flat)
+
+### Analyse & Statistique
+![Statistical Reports](https://img.shields.io/badge/Statistical_Reports-DA1F26?style=flat)
+![Exploratory Analysis](https://img.shields.io/badge/Exploratory_Analysis-47A248?style=flat)
+![Probability](https://img.shields.io/badge/Probability-764ABC?style=flat)
+
+### Outils & Logiciels
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Ableton](https://img.shields.io/badge/Ableton-000000?style=flat&logo=abletonlive&logoColor=white)
+![Adobe Suite](https://img.shields.io/badge/Adobe_Suite-FF0000?style=flat&logo=adobe&logoColor=white)
+
+### Gestion & Organisation
+![Information Monitoring](https://img.shields.io/badge/Information_Monitoring-ED1C24?style=flat)
+
+### Design & UX
+![Project Design Management](https://img.shields.io/badge/Project_Design_Management-FF61F6?style=flat)
+![UX Mapping](https://img.shields.io/badge/UX_Mapping-00B2EE?style=flat)
+
+### Intelligence Artificielle
+![AI Basics](https://img.shields.io/badge/AI_Basics-5C2D91?style=flat&logo=openai&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white)
 
 📈 Projets Phares :
 
